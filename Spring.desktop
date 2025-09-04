@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=4.0
+Type=Application
+Name=Spring Tool Suite
+Icon=/opt/SpringTool/icon.xpm
+Exec=/opt/SpringTool/SpringToolSuite4
+Comment=Spring Tool Suite
+Categories=Development;IDE;
+Terminal=false
